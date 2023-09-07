@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mentorsity/static/css/main.7c76deca.css",
+    "main.js": "/mentorsity/static/js/main.c75bea9b.js",
+    "static/js/787.b755f208.chunk.js": "/mentorsity/static/js/787.b755f208.chunk.js",
+    "index.html": "/mentorsity/index.html",
+    "main.7c76deca.css.map": "/mentorsity/static/css/main.7c76deca.css.map",
+    "main.c75bea9b.js.map": "/mentorsity/static/js/main.c75bea9b.js.map",
+    "787.b755f208.chunk.js.map": "/mentorsity/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c76deca.css",
+    "static/js/main.c75bea9b.js"
+  ]
+}
