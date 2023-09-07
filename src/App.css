@@ -1,0 +1,27 @@
+
+.header h1{
+  margin-bottom: 30px;
+
+}
+
+.header input{
+  margin-bottom: 40px;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+}
+.header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
